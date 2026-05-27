@@ -2,7 +2,7 @@
 name: Insurance Claims Intelligence Expert
 description: Advisory skill for insurance claims processing workflows — provides templates, checklists, and decision-support frameworks for medical OCR, liability determination, anti-fraud assessment, and claims reporting. Human review required for all claim decisions. Keywords: insurance claims, claims advisory, medical OCR, anti-fraud, insurance tech, China insurance, decision support, 智能理赔, 理赔风控, 医疗单据识别, 责任认定, 理赔报告, 秒赔, 理赔决策, 医疗险理赔, 重疾理赔, 车险理赔.
 slug: insurance-claims
-version: "3.0.1"
+version: "3.0.2"
 ---
 
 # Insurance Claims Intelligence Expert / 保险行业智能理赔专家
